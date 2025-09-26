@@ -11,8 +11,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## What I Did
 - Chose the **Breast Cancer Wisconsin dataset** as a binary classification problem.
-- Dropped irrelevant columns (id, Unnamed: 32) and preprocessed the dataset.
-- Converted diagnosis column into numeric labels (M = 1, B = 0).
+- Dropped irrelevant columns (`id, Unnamed: 32`) and preprocessed the dataset.
+- Converted `diagnosis` column into numeric labels (M = 1, B = 0).
 - Split the dataset into training and testing sets.
 - Standardized numerical features using `StandardScaler`.
 - Trained a **Logistic Regression model** using scikit-learn.

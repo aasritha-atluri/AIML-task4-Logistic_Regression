@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 2. Make sure **Python 3.x** is installed.
 3. Install dependencies (see Requirements).
 4. Download the dataset breast_cancer.csv.
-5. Place ```breast_cancer.csv``` in the same folder as task4code.py.
+5. Place ```breast_cancer.csv``` in the same folder as `task4code.py`.
 6. Run the script:
 
 ```bash
@@ -49,7 +49,7 @@ python task4code.py
 ```
 
 7. The script will display:
-- Confusion Matrix heatmap
-- Classification report (Precision, Recall, F1-score)
-- ROC curve with AUC value
-- Optimal classification threshold
+ - Confusion Matrix heatmap
+ - Classification report (Precision, Recall, F1-score)
+ - ROC curve with AUC value
+ - Optimal classification threshold
